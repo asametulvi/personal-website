@@ -1,0 +1,8 @@
+# JPEG
+*.jpg
+
+# Portable Network Graphics
+*.png
+
+# Scalable Vector Graphics
+*.svg
